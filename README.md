@@ -7,6 +7,7 @@ I'm currently based in the lovely, windy city of Chicago. I'm a Data Scientist a
 
 ### 🤖 Projects
 Some of my fun projects:
+* [Meet Your Shadow](https://github.com/xinkaichen97/meet-your-shadow): A quiet AI agent for the parts of you that rarely get asked.
 * [Cerberus](https://github.com/xinkaichen97/fraud-detection-streaming): A production-grade streaming fraud detection pipeline with three "heads" (Producer, Processor, API).
 * [MacroForge](https://github.com/xinkaichen97/MacroForge-Agent): A multi-agent system for bodybuilders and fitness enthusiasts optimize their nutrition.
 * [YouShen](https://github.com/mfogelson/11-785_project): Limerick Poetry Generation with GPT-2
